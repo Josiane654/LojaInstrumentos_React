@@ -1,0 +1,38 @@
+.container{
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(170, 38, 56);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.texto{
+    width: 45%;
+    height: 300px;
+    background-color: rgb(187, 135, 135);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img{
+    width: 45%;
+    height: 300px;
+    background-image: url(../imagess/images/loja.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    margin: 7% 9% 0% 0%;
+}
+
+.textoloja{
+    margin: 4% 7% 0% 7%;
+    font-size: 14px;
+}

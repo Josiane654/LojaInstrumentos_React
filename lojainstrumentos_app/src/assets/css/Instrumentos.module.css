@@ -1,0 +1,9 @@
+.container{
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(95, 239, 236);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

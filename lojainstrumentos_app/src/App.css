@@ -1,0 +1,9 @@
+.imgbody{
+    background-image: url(assets/imagess/images/guitarra_fundo_body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    margin: 0px;
+}

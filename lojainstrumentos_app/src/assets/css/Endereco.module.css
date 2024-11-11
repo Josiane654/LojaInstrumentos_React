@@ -1,0 +1,32 @@
+.container{
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(202, 113, 50);
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+}
+
+.maps{
+    width: 45%;
+    height: 300px;
+    background-color: antiquewhite;
+}
+
+.textos{
+    width: 45%;
+    height: 300px;
+    background-color: rgb(187, 135, 135);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo{
+    margin: 7% 7% 0% 7%;
+}
+
+.texto{
+    margin: 4% 7% 0% 7%;
+    font-size: 14px;
+}

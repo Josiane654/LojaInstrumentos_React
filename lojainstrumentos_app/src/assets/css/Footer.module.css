@@ -1,0 +1,37 @@
+.footer{
+    width: 90%;
+    height: 150px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.titulo, .endereco{
+    font-size: 12px;
+}
+
+.redes{
+    width: 11%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.whats{
+    width: 50px;
+    height: 50px;
+}
+
+.insta, .face{
+    width: 48px;
+    height: 48px;
+}
